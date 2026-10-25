@@ -1,0 +1,2 @@
+/* Payslip page styles. */
+#slipContent{max-width:980px;margin-inline:auto}#slipContent hr{border-color:var(--line)}#slipRows td:last-child{text-align:right;font-variant-numeric:tabular-nums}
